@@ -9,9 +9,6 @@ The goal is to understand how the random wind modifies the stationary equilibriu
 
 # Files overlook
 
-The repository consists in three matlab codes:
-* A simple code solving a diffusion equation (the heat equation)
-* A code solving advection-diffusion
-* A final code solving a stochastic advection-diffusion-reaction with isotropic transport noise
-
-Finally, a short pdf file describing in more details the motivation, analysis and results of the project, with additional figures.
+The repository consists in a matlab code solving a stochastic advection-diffusion-reaction with isotropic transport noise. 
+Finally, I added a short pdf file describing in more details the motivation, analysis and results of the project, with additional figures.
+All the figures in the pdf can be obtained by the main matlab code by simple modifications of the parameters, or setting to zero some of the equation's coefficients. 
